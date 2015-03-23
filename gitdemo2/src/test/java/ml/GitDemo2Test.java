@@ -9,6 +9,7 @@ public class GitDemo2Test {
 	public void test() {
 		Assert.assertTrue(true);
 		Assert.assertFalse(false);
+
 		
 	}
 }
